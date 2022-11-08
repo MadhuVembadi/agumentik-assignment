@@ -1,0 +1,17 @@
+.top-bar .col {
+  background-color: whitesmoke;
+  border-radius: 5px;
+}
+
+.pricing img {
+  border-radius: 5px;
+}
+
+.col {
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.top-bar-searchIcon {
+  margin: 2px;
+}

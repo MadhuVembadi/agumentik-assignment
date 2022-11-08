@@ -1,0 +1,40 @@
+.properties img {
+  border-radius: 15px;
+}
+
+p {
+  color: rgb(84, 84, 179);
+  font-weight: 500;
+}
+
+.properties {
+  animation-name: propsildor;
+  animation-timing-function: linear;
+  animation-iteration-count: 1;
+  animation-duration: 1.5s;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@keyframes propsildor {
+  0% {
+    margin-left: 1300px;
+    margin-right: auto;
+  }
+  25% {
+    margin-left: 700px;
+    margin-right: auto;
+  }
+  50% {
+    margin-left: 100px;
+    margin-right: auto;
+  }
+  75% {
+    margin-left: 70px;
+    margin-right: auto;
+  }
+  100% {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}

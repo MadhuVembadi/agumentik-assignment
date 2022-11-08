@@ -1,0 +1,39 @@
+.header {
+  width: 100%;
+}
+
+.navbar {
+  width: 100%;
+}
+
+.navbarlink {
+  color: rgb(165, 154, 154);
+}
+
+.navbar-nav {
+  width: 100%;
+  justify-content: space-evenly;
+}
+
+.navbar-brand {
+  text-align: end;
+  /* color: white; */
+  font-weight: 500;
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+.navbarlink.active {
+  text-decoration: underline 1px black;
+  text-underline-offset: 10px;
+  /* color: rgb(165, 154, 154); */
+}
+
+.navbarlink:hover {
+  text-decoration: underline 1px black;
+  text-underline-offset: 10px;
+  /* color: rgb(165, 154, 154); */
+}
+
+/* .navbar-brand.navbarlink:hover {
+  color: white;
+} */
