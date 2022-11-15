@@ -1,3 +1,6 @@
+# Video Demo
+[![Watch the video](https://github.com/MadhuVembadi/agumentik-assignment/blob/main/Home%20Page.png)](https://drive.google.com/file/d/1_DaLGPhprLOkfE0jpQAjV7z_S3K1LTV7/view?usp=share_link)
+
 # Home Page
 ![Home Page](https://github.com/MadhuVembadi/agumentik-assignment/blob/main/Home%20Page.png?raw=true)
 
