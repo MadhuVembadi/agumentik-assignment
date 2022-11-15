@@ -1,3 +1,12 @@
+# Home Page
+![Home Page](https://github.com/MadhuVembadi/agumentik-assignment/blob/main/Home%20Page.png?raw=true)
+
+# Pricing Page
+![Pricing Page](https://github.com/MadhuVembadi/agumentik-assignment/blob/main/Pricing%20Page.png?raw=true)
+
+# Contact Page
+![Contact Page](https://github.com/MadhuVembadi/agumentik-assignment/blob/main/Contact%20Page.png?raw=true)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
